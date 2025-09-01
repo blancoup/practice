@@ -1,0 +1,6 @@
+[submodule "Assignment/rollup/lib/forge-std"]
+	path = Assignment/rollup/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Assignment/enigma/lib/forge-std"]
+	path = Assignment/enigma/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
